@@ -1,3 +1,4 @@
+PD: Hola profesor, hice cambio de pc, y despues unos cambios en el Proyecto 3 y me quedó un desastre, lo correjí creando un nuevo repo y subiendo los cambios, tambien la volví a publicar en github pages. Lo fome es que me aparece un solo commit, y en realidad tenia por lo menos 20 commit en mi proyecto original, he hecho los iba escribiendo en el formato que usted usa y en inglés, que lata que eso no lo pueda ver, espero que no me baje la nota por eso porfis, es una cosa que me acaba de pasar, y se me ocurrio crear un nuevo repo nomas. Saludos.
 # Our Fire - Sitio Web
 
 Este proyecto corresponde al desarrollo del sitio web de **Our Fire**, una marca dedicada a la fabricación de fogones de metal para exteriores. 
